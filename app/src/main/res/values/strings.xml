@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Event Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="welcome">Event Tracker</string>
+    <string name="startButton">Get Started!</string>
+    <string name="title_activity_add_event">addEventActivity</string>
+    <string name="addEvent">Add Event</string>
+    <string name="NameEvent">Name of Event:</string>
+    <string name="LocationEvent">Location:</string>
+    <string name="HostEvent">Host:</string>
+    <string name="DescriptionEvent">Description:</string>
+    <string name="DateEvent">Date:</string>
+    <string name="TimeEvent">Time:</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_login1">Sign in</string>
+    <string name="EventCreated">Event is successfully created!</string>
+
+    <!-- Strings related to location Date Month Time-->
+    <string-array name="location_array">
+        <item>GSU</item>
+        <item>FitRec</item>
+        <item>CAS</item>
+        <item>Questrom</item>
+    </string-array>
+    <string-array name="month_array">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>June</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="hour_array">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="date_array">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <!-- Strings related to event-->
+    <string-array name="event_name">
+        <item>Event 1</item>
+        <item>Event 2</item>
+        <item>Event 3</item>
+        <item>Event 4</item>
+        <item>Event 5</item>
+        <item>Event 6</item>
+        <item>Event 7</item>
+    </string-array>
+    <string-array name="event_host">
+        <item>Alex</item>
+        <item>Qianqian</item>
+        <item>Yuzi</item>
+        <item>Ryan</item>
+        <item>Jiaqian</item>
+        <item>BUCSA</item>
+        <item>BUJSA</item>
+    </string-array>
+    <string-array name="event_time">
+        <item>4 pm</item>
+        <item>5 pm</item>
+        <item>6 pm</item>
+        <item>7 pm</item>
+        <item>8 pm</item>
+        <item>9 pm</item>
+        <item>10 pm</item>
+    </string-array>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
